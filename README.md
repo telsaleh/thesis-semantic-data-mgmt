@@ -1,4 +1,4 @@
-# Thesis: Semantic Data Management for Dynamic IoT Services
+# Semantic Data Management for Dynamic IoT Services
 
 This page provides links to source code repositories associated with the works for this thesis. The thesis manuscript itself can be found [here](https://doi.org/10.15126/thesis.900546).
 
